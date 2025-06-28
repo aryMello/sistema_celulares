@@ -1,0 +1,15 @@
+/workspaces/sistema_celulares/ProjetoCelular/bin/Debug/net8.0/ProjetoCelular
+/workspaces/sistema_celulares/ProjetoCelular/bin/Debug/net8.0/ProjetoCelular.deps.json
+/workspaces/sistema_celulares/ProjetoCelular/bin/Debug/net8.0/ProjetoCelular.runtimeconfig.json
+/workspaces/sistema_celulares/ProjetoCelular/bin/Debug/net8.0/ProjetoCelular.dll
+/workspaces/sistema_celulares/ProjetoCelular/bin/Debug/net8.0/ProjetoCelular.pdb
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/ProjetoCelular.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/ProjetoCelular.AssemblyInfoInputs.cache
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/ProjetoCelular.AssemblyInfo.cs
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/ProjetoCelular.csproj.CoreCompileInputs.cache
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/ProjetoCelular.sourcelink.json
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/ProjetoCelular.dll
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/refint/ProjetoCelular.dll
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/ProjetoCelular.pdb
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/ProjetoCelular.genruntimeconfig.cache
+/workspaces/sistema_celulares/ProjetoCelular/obj/Debug/net8.0/ref/ProjetoCelular.dll
